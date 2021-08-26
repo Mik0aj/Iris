@@ -3,6 +3,7 @@
 ### Description
 
 <div style="text-align:center"><img src="images/technicalDrawing.png" width="800">
+
 Mod for Tevo tornado printer that adds function of a plotter. Model is designed to hold pens and markers of a diameter up to 25mm. No matter the width of the pen it should self-center. Plate that holds the iris mechanism is designed with magnetic quick realese. Iris mechanisms can be stacked on top of each orther provided the bolts are long enough.
 
 <img src="images/plotter.jpg" width="300">
